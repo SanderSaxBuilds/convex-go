@@ -1,0 +1,4 @@
+testdata/convex-app/node_modules/
+testdata/convex-app/.env.local
+*.test
+*.out
